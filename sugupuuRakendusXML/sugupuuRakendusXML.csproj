@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\ElisavetaSugupuu.xml" />
+    <None Include="wwwroot\minusugupuu.xml" />
+    <None Include="wwwroot\reisid.xml" />
+    <None Include="wwwroot\reisidParing.xslt" />
+    <None Include="wwwroot\sugupuuParing.xslt" />
+  </ItemGroup>
+
+</Project>

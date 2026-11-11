@@ -1,0 +1,48 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 id="aspnetTitle">XML - Extensible Markup Language</h1>
+        <p class="lead">
+            XML kirjeldab kuidas andmed on oma vahel seotud.
+            <br /> XML tuleb deklareerida
+            <br />API kastavad XML failide
+            <br />RSS-uudised hoiatakse XML-ina
+            <br />KML kaardid põhinevad XML'lil
+            <br />Kasutame süsteemide andmevahetusel
+        </p>
+
+    </section>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 id="aspnetTitle">XSLT - Extensible Stylesheet Language Transformations</h1>
+        <p class="lead">
+            XSLT muudab andmeid XML failist.
+            <br /> XML --> XSLT --> HTML --> veebileht
+            <br /> XML --> XSLT --> .aspx leht --> veebileht
+            <br /> XML --> XSLT --> csv fail --> Excel
+            <br /> XML --> XSLT --> XML --> teine süüsteem
+        </p>
+        <h2>XSLT funktsioonid</h2>
+        <br />count() -arvutab kogus
+        <br />substring(nimi, 1, 1) -eraldab nimest 1.täht
+        <br />string-length(nimi) - sümboolite arv
+        <br />starts-with(nimi, 'A') - tekstikontroll
+        <br />last() - viimane järjekorranumber
+        <br />position() - jooksva järjekorranumber
+        <br />not(), true(), false()
+        <br />normalize-space() - võitab tühikud ja muud vahed ära
+        <br />translate(nimi, algsümboolid, lõppsümboolid) -  asendab tähed.
+        transalte(kass, 'ss', 'tt') --> katt
+
+    </section>
+
+       
+</main>

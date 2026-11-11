@@ -1,0 +1,14 @@
+﻿@page
+@model sugupuuRakendusXML.Pages.ElisavetasugupuuModel
+@{
+    ViewData["Title"] = "Elisaveta II sugupuu";
+}
+
+<main aria-labelledby="title">
+    <h2 id="title">@ViewData["Title"]</h2>
+
+    <div>
+        @Html.Raw(Model.HtmlSisu)
+    </div>
+</main>
+

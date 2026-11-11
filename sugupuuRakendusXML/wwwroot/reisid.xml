@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reisid>
+
+    <reis id="R001" hind="1240">
+        <suund>Barcelona, Hispaania</suund>
+        <riik>Hispaania</riik>
+        <kestvus>5</kestvus>
+        <transport tyyp="lend">
+            <lennufirma>Vueling Airlines</lennufirma>
+            <lennuNumber>VY8821</lennuNumber>
+            <lahkumine>Tallinn</lahkumine>
+            <saabumine>Barcelona</saabumine>
+        </transport>
+        <majutus tarnid="4" hindOo="130">
+            <nimi>Hotel Ramblas Boutique</nimi>
+            <asukoht>Barcelona kesklinn</asukoht>
+        </majutus>
+        <ekskursioonid>
+            <tuur hind="75">
+                <nimi>Sagrada Familia ja Gaudi ekskursioon</nimi>
+                <kestus>4 tundi</kestus>
+                <giid>Inglise keel</giid>
+            </tuur>
+        </ekskursioonid>
+        <muudKulud hind="90">
+            <kirjeldus>Metro, suveniirid ja toidud</kirjeldus>
+            <valuuta>EUR</valuuta>
+        </muudKulud>
+        <hinnang>4.7</hinnang>
+    </reis>
+
+    <reis id="R002" hind="980">
+        <suund>Krakow, Poola</suund>
+        <riik>Poola</riik>
+        <kestvus>4</kestvus>
+        <transport tyyp="lend">
+            <lennufirma>LOT Polish Airlines</lennufirma>
+            <lennuNumber>LO451</lennuNumber>
+            <lahkumine>Tallinn</lahkumine>
+            <saabumine>Krakow</saabumine>
+        </transport>
+        <majutus tarnid="3" hindOo="85">
+            <nimi>Old Town Hostel Krakow</nimi>
+            <asukoht>Krakowi vanalinn</asukoht>
+        </majutus>
+        <ekskursioonid>
+            <tuur hind="55">
+                <nimi>Auschwitz-Birkenau memoriaal</nimi>
+                <kestus>6 tundi</kestus>
+                <giid>Eesti keel</giid>
+            </tuur>
+        </ekskursioonid>
+        <muudKulud hind="60">
+            <kirjeldus>Tramm ja suveniirid</kirjeldus>
+            <valuuta>EUR</valuuta>
+        </muudKulud>
+        <hinnang>4.4</hinnang>
+    </reis>
+
+    <reis id="R003" hind="2350">
+        <suund>Tokyo, Jaapan</suund>
+        <riik>Jaapan</riik>
+        <kestvus>10</kestvus>
+        <transport tyyp="lend">
+            <lennufirma>Finnair</lennufirma>
+            <lennuNumber>AY073</lennuNumber>
+            <lahkumine>Tallinn</lahkumine>
+            <saabumine>Tokyo</saabumine>
+        </transport>
+        <majutus tarnid="4" hindOo="160">
+            <nimi>Shinjuku Park Hotel</nimi>
+            <asukoht>Tokyo, Shinjuku rajoon</asukoht>
+        </majutus>
+        <ekskursioonid>
+            <tuur hind="110">
+                <nimi>Fuji mägi ja Hakone päevaretk</nimi>
+                <kestus>10 tundi</kestus>
+                <giid>Inglise keel</giid>
+            </tuur>
+        </ekskursioonid>
+        <muudKulud hind="200">
+            <kirjeldus>Metro, toidud ja suveniirid</kirjeldus>
+            <valuuta>EUR</valuuta>
+        </muudKulud>
+        <hinnang>4.9</hinnang>
+    </reis>
+
+    <reis id="R004" hind="620">
+        <suund>Riia, Läti</suund>
+        <riik>Läti</riik>
+        <kestvus>3</kestvus>
+        <transport tyyp="buss">
+            <ettevote>Lux Express</ettevote>
+            <marsruut>Tallinn - Riia</marsruut>
+        </transport>
+        <majutus tarnid="3" hindOo="75">
+            <nimi>Riga City Apartments</nimi>
+            <asukoht>Riia vanalinn</asukoht>
+        </majutus>
+        <ekskursioonid>
+            <tuur hind="40">
+                <nimi>Riia vanalinna jalutuskäik</nimi>
+                <kestus>2 tundi</kestus>
+                <giid>Vene keel</giid>
+            </tuur>
+        </ekskursioonid>
+        <muudKulud hind="45">
+            <kirjeldus>Kohalik transport ja suveniirid</kirjeldus>
+            <valuuta>EUR</valuuta>
+        </muudKulud>
+        <hinnang>4.1</hinnang>
+    </reis>
+
+</reisid>

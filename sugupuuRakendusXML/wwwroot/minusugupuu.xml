@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--jada-->
+<inimene synd="1958">
+	<nimi>
+		Nikolai Zaitsev
+	</nimi>
+	<lapsed>
+		<inimene synd="1985">
+			<nimi>
+				Dmitri Zaitsev
+			</nimi>
+			<lapsed>
+				<inimene synd="1988">
+					<nimi>
+						Elena Zaitseva (ema)
+					</nimi>
+				</inimene>
+				<inimene synd="2007">
+					<nimi>
+						Roman Zaitsev
+					</nimi>
+				</inimene>
+				<inimene synd="2009">
+					<nimi>
+						Alina Zaitseva
+					</nimi>
+				</inimene>
+				<inimene synd="2013">
+					<nimi>
+						Sofia Zaitseva
+					</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>
